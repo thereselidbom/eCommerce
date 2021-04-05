@@ -16,7 +16,7 @@
         </div>
         <small class="text-muted">inkl. moms</small>
       </div>
-      <button class="btn btn-primary">Gå till kassan</button>
+      <router-link class="btn btn-primary text-white" to="/user">Go to checkout</router-link>
     </div>
 
   </div>
